@@ -1,0 +1,46 @@
+html{
+    background-color: #5289f7
+    
+}
+
+body{
+    background-color: #f6c77c;
+    border: 5px solid #281185;
+    width: 760px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin: 20px auto 20px auto seria lo mismo */
+    padding: 15px;
+}
+
+[href]{
+    background-color: aqua;
+}
+
+aside [href]{
+    background-color: #5289f7;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+[href]{
+    text-transform: uppercase;
+    background-color: #10cf832d; 
+}
+
+h2{
+    background-color: #0f57e6;
+    font-size: 30px;
+}
+
+h4{
+    background-color: #1050cf87;
+    font-size: 25px;
+}
+
+h3{
+    background-color: #0f57e6;
+    font-size: 28px;
+}
